@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ByjqBFhiRB6lcHxAHcJ4RRGqKep1rt6Xjtgrz4aBcUE=",
+  "Source": "BlobQuickstartAPI",
+  "BasePath": "_content/BlobQuickstartAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
